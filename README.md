@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @4shwinv
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Ashwin v Nair
+- 👀 I’m interested in Designing computer programs
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
